@@ -12,6 +12,7 @@ URL:		http://www.lobstertech.com/code/voicechanger/
 Source0:	http://www.lobstertech.com/code/libsoundtouch4c/releases/%{name}-%{version}.tar.gz
 BuildRequires:	soundtouch-devel >= 1.3.1
 BuildRequires:	libtool
+BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 A wrapper for soundtouch so you can use it in C programs
