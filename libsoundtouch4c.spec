@@ -5,7 +5,7 @@
 Summary:	A wrapper for soundtouch so you can use it in C programs
 Name:		libsoundtouch4c
 Version:	0.4
-Release:	%mkrel 1
+Release:	%mkrel 3
 Group:		System/Libraries
 License:	GPL
 URL:		http://www.lobstertech.com/code/voicechanger/
