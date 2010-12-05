@@ -6,7 +6,7 @@
 Summary:	A wrapper for soundtouch so you can use it in C programs
 Name:		libsoundtouch4c
 Version:	0.5
-Release:	%mkrel -c %beta 1
+Release:	%mkrel -c %beta 2
 Group:		System/Libraries
 License:	GPL
 URL:		http://lobstertech.com/2006/aug/23/soundtouch4c/
