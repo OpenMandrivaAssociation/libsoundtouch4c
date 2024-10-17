@@ -9,7 +9,7 @@ Version:	0.5
 Release:	%mkrel -c %beta 2
 Group:		System/Libraries
 License:	GPL
-URL:		http://lobstertech.com/2006/aug/23/soundtouch4c/
+URL:		https://lobstertech.com/2006/aug/23/soundtouch4c/
 Source0:	http://lobstertech.com/media/file/libsoundtouch4c/soundtouch4c-%{version}b.tar.gz
 BuildRequires:	pkgconfig(soundtouch) >= 1.3.1
 BuildRequires:	libtool
